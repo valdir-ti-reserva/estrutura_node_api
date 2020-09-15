@@ -13,10 +13,6 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-01?color=%2304D361">
 
-  <a href="https://github.com/valdir-ti">
-    <img alt="Made by Valdir Silva" src="https://avatars1.githubusercontent.com/u/11434239?s=460&u=83d59b5961df387b6105f7e3432f832f67080fd7&v=4">
-  </a>
-
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
   <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-01/stargazers">
